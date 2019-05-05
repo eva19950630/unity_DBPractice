@@ -1,0 +1,27 @@
+# unity ignore dir 
+/[Bb]in/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/Assets/VSCode/
+/.vscode/
+
+# unity ignore file
+*.csproj
+*.userprefs
+*.sln
+*.unityproj
+*.user
+*.meta
+*.tmp
+*.svd
+
+# Builds
+*.apk
+*.unitypackage
+
+.DS_Store
+
+# exclude files.
+!.gitignore
+!*.*.meta
